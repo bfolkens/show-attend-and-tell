@@ -1,0 +1,12 @@
+.dockerignore
+Dockerfile
+
+.git
+*.ipynb
+
+data
+annotations
+results
+jpg
+image
+
